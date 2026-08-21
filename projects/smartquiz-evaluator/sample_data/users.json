@@ -1,0 +1,11 @@
+{
+  "admin_user": {
+    "password": "admin123"
+  },
+  "john_doe": {
+    "password": "secure_pass_456"
+  },
+  "quiz_master": {
+    "password": "quizzing_pro"
+  }
+}
