@@ -1,0 +1,42 @@
+{
+  "1234": {
+    "creator": "quiz_master",
+    "questions": [
+      {
+        "question": "What is the capital of France?",
+        "options": ["London", "Paris", "Berlin", "Madrid"],
+        "correct": "B",
+        "marks": 5
+      },
+      {
+        "question": "What is 2 + 2?",
+        "options": ["3", "4", "5", "6"],
+        "correct": "B",
+        "marks": 3
+      },
+      {
+        "question": "Which planet is closest to the Sun?",
+        "options": ["Venus", "Mercury", "Earth", "Mars"],
+        "correct": "B",
+        "marks": 4
+      }
+    ]
+  },
+  "5678": {
+    "creator": "admin_user",
+    "questions": [
+      {
+        "question": "What is Python?",
+        "options": ["A reptile", "A programming language", "A type of coffee", "A musical instrument"],
+        "correct": "B",
+        "marks": 5
+      },
+      {
+        "question": "Which of these is NOT a Python data type?",
+        "options": ["List", "Dictionary", "String", "Integer"],
+        "correct": "D",
+        "marks": 4
+      }
+    ]
+  }
+}
