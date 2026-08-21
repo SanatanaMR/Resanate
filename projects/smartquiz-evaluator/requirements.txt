@@ -1,0 +1,19 @@
+# SmartQuiz Evaluator - Requirements
+
+# No external dependencies required for current version
+# Built using Python standard library only:
+# - json (JSON file handling)
+# - os (file system operations)
+# - random (unique ID generation)
+
+# Future versions will require:
+# Flask==2.0.0
+# MySQL-connector-python==8.0.26
+# SQLAlchemy==1.4.0
+# python-dotenv==0.19.0
+
+# To install all future dependencies when upgrading to web version:
+# pip install -r requirements.txt
+
+# Current version tested on:
+# Python 3.7, 3.8, 3.9, 3.10
