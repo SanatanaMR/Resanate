@@ -40,7 +40,23 @@ Hi! I'm **SanatanaMR**, an **aspiring software engineer** passionate about build
 
 ## 📚 Featured Projects
 
-This section will showcase my projects as they grow. Check back soon for:
+### 🎯 SmartQuiz Evaluator
+**A Python-based offline application for efficient quiz management and automated evaluation**
+
+> Quiz creators can design flexible assessments with individual marks per question. The application features secure authentication, real-time scoring, and a comprehensive response dashboard for reviewing participant performance.
+
+- **Tech Stack**: Python 3.7+, JSON, File I/O
+- **Status**: ✅ Prototype (Offline Version)
+- **Next**: Converting to online web application with MySQL database
+- **Features**: 
+  - Secure login/signup system
+  - Flexible quiz creation with custom marks
+  - Real-time score calculation
+  - Response dashboard for quiz creators
+  - JSON-based data persistence
+- **[👉 View Project →](./projects/smartquiz-evaluator/README.md)**
+
+### More Projects Coming Soon!
 - Data structure implementations
 - Problem-solving with algorithms
 - Practical applications in Python and C
